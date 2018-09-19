@@ -11,7 +11,7 @@ public class HelloWorld {
 		//este jeden
 		//novy repozitar
 		//fetch
-		//matus tu si? 
+		//matus tu si? haloooooo???
 	}
 
 }
