@@ -10,6 +10,7 @@ public class HelloWorld {
 		//do frasa
 		//este jeden
 		//novy repozitar
+		//fetch
 	}
 
 }
