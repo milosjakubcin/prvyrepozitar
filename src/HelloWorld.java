@@ -7,11 +7,7 @@ public class HelloWorld {
 		for (int i=0;i<10;i++) {
 			System.out.println("Git je super");
 		}
-		//do frasa
-		//este jeden
-		//novy repozitar
-		//fetch
-		//matus tu si? 
+		//hej som tu, prestan ma spamovat
 	}
 
 }
