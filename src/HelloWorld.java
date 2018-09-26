@@ -14,7 +14,7 @@ public class HelloWorld {
 
 
 /*  working dir
- * local prepository- lokalny repozitar na ukladanie vlastne verzie... potrebujeme vytvorit ... prave na projekt+team+ share project... 
+ * local repository- lokalny repozitar na ukladanie vlastne verzie... potrebujeme vytvorit ... prave na projekt+team+ share project... 
  * valec na projekte- znamena ze to je zdielany subor
  * remote repository - server kde sa posielaju data z localneho repositaru
  */
